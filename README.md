@@ -1,31 +1,24 @@
 #### Add Class
-	JQUERY
 ```javascript
+//JQUERY
 $(el).addClass(className);
-```
-	IE10+
-```javascript
+IE10+
 el.classList.add('className');
-
-After
-
-JQUERY
-```javascript
-$(el).after(htmlString);
 ```
-IE8+
+
+#### After
 ```javascript
+//JQUERY
+$(el).after(htmlString);
+//IE8+
 el.insertAdjacentHTML('afterend',htmlString);
 ```
 
-Append
-
-JQUERY
+#### Append
 ```javascript
+//JQUERY
 $(parent).append(el);
-```
-IE8+
-```javascript
+//IE8+
 parent.appendChild(el);
 ```
 
