@@ -1,12 +1,9 @@
-### ELEMENTS
-
-Add Class
-
-JQUERY
+#### Add Class
+	JQUERY
 ```javascript
 $(el).addClass(className);
 ```
-IE10+
+	IE10+
 ```javascript
 el.classList.add('className');
 
