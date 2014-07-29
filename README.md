@@ -1,3 +1,6 @@
+摘自[you might not need jQuery](http://youmightnotneedjquery.com/)
+------------------------------------------------------------------
+
 #### Add Class
 ```javascript
 //JQUERY
